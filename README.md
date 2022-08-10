@@ -1,1 +1,1 @@
-#etrainig
+#etraining
