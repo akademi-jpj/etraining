@@ -19,4 +19,5 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 nav:  
+  - Pengenalan: index.md
   - Dokumen Rujukan: manual.md
