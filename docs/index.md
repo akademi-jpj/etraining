@@ -1,4 +1,7 @@
-# Welcome to eTraining Manual (update)
+# Welcome to eTraining Manual
+
+![Intro](img/intro-etraining.png)
+
 
 eTraining adalah merupakan bahagian pentadbiran sistem untuk pengurusan katalog kursus akademi. URL untuk pentadbiran sistem adalah 
 
