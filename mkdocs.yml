@@ -22,6 +22,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+extra_css:
+  - css/style.css
 nav:  
   - Pengenalan: index.md
   - Dokumen Rujukan: manual.md
