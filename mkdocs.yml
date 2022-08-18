@@ -1,6 +1,8 @@
 site_name: eTraining (ADMIN) Manual
 theme:
   name: material
+  
+  
   #logo: img/logo.png
   
   features:
@@ -9,8 +11,10 @@ theme:
   #   - navigation.tabs.sticky
   font:
     text: Roboto
-  palette:
+  palette:  
+    # scheme: slate
     primary: indigo  
+    accent: indigo
 markdown_extensions:
   - attr_list
   - pymdownx.highlight:

@@ -20,9 +20,11 @@
         - Laporan penyeleras kursus
 7.  Kemaskini banner kursus
 8.  Surat Tawaran Kursus 
-9.  Dokumen-dokumen yang dikeluarkan oleh etims
+9.  Dokumen-dokumen yang dikeluarkan dalam sistem etims
     - Surat Tawan kursus
-    - Sijil
+    - Sijil Kursus
     - Borang Maklumbalas Kehadiran Kursus
+    - Salinan Borang Permohonan
+    - 
 10. Flow permohonan kursus akademi (Pengenalan)
 11.  Dokumen Rujukan
