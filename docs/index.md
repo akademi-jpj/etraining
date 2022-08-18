@@ -11,3 +11,5 @@ Manual ini menyediakan panduan kepada anda untuk mendapatkan dokumen-dokumen man
 
 [Lihat dokumen manual](manual.md)
 
+Sekian.
+
