@@ -15,6 +15,9 @@ theme:
     # scheme: slate
     primary: indigo  
     accent: indigo
+extra:
+  version:
+    provider: mike
 markdown_extensions:
   - attr_list
   - pymdownx.highlight:
