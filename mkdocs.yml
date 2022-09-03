@@ -29,4 +29,12 @@ extra_css:
   - css/style.css
 nav:  
   - Pengenalan: index.md
-  - Dokumen Rujukan: manual.md
+  - Dokumen Rujukan: manual.md  
+  - Pelaksanaan Kursus: pelaksanaan_kursus.md
+  - Kod Kursus: linkup_code.md
+  - Bajet Kursus: bajet_kursus.md
+  - Status Kursus: status_kursus.md
+  - Upload Banner Kursus: banner.md
+  - Penjanaan Dokumen ISO: dokumen_iso.md
+  - Surat Panggilan Kursus: slip_panggilan.md
+  
