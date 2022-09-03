@@ -4,6 +4,8 @@
 
 Setiap program pengajian telah ditetapkan senarai kod unik yang perlu digunakan dalam sistem etims. Kod kursus adalah merupakan kod unik kursus mengikut format yang telah ditetapkan seperti berikut :
 
+### Format Kod Kursus
+
 | Program     | Kluster/Seksyen     | Tahap    | Running | Contoh Kod Kursus
 | ----------- | --------------------|----------|---------| -------
 | C           | V / C / U           | 1 - 3    | 001-999 | CV1001 
@@ -12,6 +14,14 @@ Setiap program pengajian telah ditetapkan senarai kod unik yang perlu digunakan 
 | Q           | P / W / I / H / U   | 1 - 3    | 001-999 | QW2001
 | L           | L / M / U           | 1 - 3    | 001-999 | LL1001
 | D           | T / U               | 1 - 3    | 001-999 | DT1007
+
+### Penerangan Skala Tahap
+
+| Kod Tahap | Penerangan
+|-----------|------------
+| 1         | Asas
+| 2         | Pertengahan
+| 3         | Lanjutan
 
 ## Fungsi salinan kod kursus
 
@@ -27,10 +37,10 @@ Pilih Kod kursus yang hendak di bawa ke tahun berikutnya dan klik butang Copy
 
 Masukkan tahun berikutnya dan klik butang Salin
 
-<img alt='menu bajet' src='../img/link_up_code/copy_tahun.png' width='300px'>
+<img alt='menu bajet' src='../img/link_up_code/copy_tahun.png' width='200px' style='border:1px solid #dddddd'>
 
 Kod kursus dan maklumat kursus tersebut telah disalin ke tahun berikutnya.
 
-![link_up_code](img/link_up_code/new_kursus.png)
+<img alt='menu bajet' src='../img/link_up_code/new_kursus.png' style='border:1px solid #dddddd'>
 
 Maklumat kursus boleh dipinda semula mengikut kesesuaian tahun semasa.
