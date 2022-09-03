@@ -1,14 +1,16 @@
 # Penjanaan Dokumen ISO
 
-Dokumen ISO kursus dalam format ISO yang ditetapkan untuk maklumat kursus
+Dokumen ISO kursus boleh diperolehi dalam format ISO piawai yang telah ditetapkan. Anda hanya perlu melengkapkan semua butiran kursus yang diperlukan sebelum menjada dokumen tersebut. Format dokumen dapat dijana melalui menu berikut : 
+
+    https://academy.jpj.gov.my/etraining/cp/kursus.php
 
 Klik pada menu pengurusan kursus
 
-<img alt='kursus' src='../img/iso/menu_kursus.png' width='300px'>
+<img alt='kursus' src='../img/iso/menu_kursus.png' width='200px'>
 
 Senarai paparan kursus di bawah program pengajian dipaparkan mengikut tahun semasa
 
-![alt pengurusan kursus](img/iso/pengurusan_kursus.png)
+<img alt='kursus' src='../img/iso/pengurusan_kursus.png' style='border:1px solid #dfdfdf'>
 
 Pilih kursus bagi tujuan cetakan ISO dari senarai paparan kursus
 
@@ -18,10 +20,14 @@ Maklumat berkenaan kursus dipaparkan. Pastikan maklumat di setiap ruang dipenuhk
 
 ![alt maklumat kursus](img/iso/maklumat_kursus.png)
 
-Di bahagian bawah maklumat kursus terdapat butang Dokumen ISO bewarna biru. klik butang tersebut.
+Di bahagian bawah maklumat kursus terdapat butang Dokumen ISO bewarna biru. klik butang tersebut untuk mencetak dokumen ISO atau menyimpan dalam bentuk PDF.
 
 <img alt='menu button' src='../img/iso/button_iso.png' width='300px'>
 
-Maklumat berkenaan kursus dipaparkan mengikut format ISO. Cetak maklumat tersebut sekiranya diperlukan.
+Dokumen ISO akan dipaparkan seperti berikut untuk cetakan atau simpanan : 
+
+<img alt='kursus' src='../img/iso/iso_sample.png' style='border:1px solid #dfdfdf'>
+
+
 
 
