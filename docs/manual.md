@@ -15,7 +15,8 @@
 
 ## Takwim 
 
-1. [Takwim Tahun 2022 Bercetak](document/Takwim-2022.pdf)
+1. [POL 2022 Bercetak](document/Takwim_2022-POL.pdf)
+2. [Takwim Tahun 2021](document/Takwim_2021-Calendar.pdf)
 
 ## SOP Kursus Online
 
