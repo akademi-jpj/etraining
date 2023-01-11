@@ -7,11 +7,12 @@
 
 ## Slide Taklimat Kemaskini Sistem
 
-1. [Kemaskini Sistem 15 Ogos 2022 : Modul Laporan Umum (v5.1)](document/Kemaskini etims v5.1.pdf)
-2. [Kemaskini Sistem 8 Ogos 2022 : Modul Dokumen ISO Kursus (v5.2)](document/Kemaskini etims v5.2.pdf)
-3. [Kemaskini Sistem 29 Mei 2020 : Modul Pasca Covid-19](document/Kemaskini MyEtims Mei 2020 Covid19.pdf)
-4. [Taklimat Online Class 28 Mei 2020 : Persediaan Kursus Pembelajaran Dalam Talian Pasca Covid-19](document/Persediaan Kelas Online MyEtims.pdf)
-5. [Slide Taklimat Pelaksanaan Penilaian Keberkesanan Latihan Aras 3 (TEA-L3) 2016](document/TEA Slide-2016.pdf)
+1. [Kemaskini Sistem 11 Januari 2023 : Modul Takwim (v5.3)](document/Kemaskini etims v5.3.pdf)
+2. [Kemaskini Sistem 15 Ogos 2022 : Modul Laporan Umum (v5.2)](document/Kemaskini etims v5.2.pdf)
+3. [Kemaskini Sistem 8 Ogos 2022 : Modul Dokumen ISO Kursus (v5.1)](document/Kemaskini etims v5.1.pdf)
+4. [Kemaskini Sistem 29 Mei 2020 : Modul Pasca Covid-19](document/Kemaskini MyEtims Mei 2020 Covid19.pdf)
+5. [Taklimat Online Class 28 Mei 2020 : Persediaan Kursus Pembelajaran Dalam Talian Pasca Covid-19](document/Persediaan Kelas Online MyEtims.pdf)
+6. [Slide Taklimat Pelaksanaan Penilaian Keberkesanan Latihan Aras 3 (TEA-L3) 2016](document/TEA Slide-2016.pdf)
 
 ## Takwim 
 
